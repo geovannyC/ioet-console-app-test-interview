@@ -8,7 +8,7 @@ In the project directory, run this scripts for start the App :
    `CLONE`
 
 ```terminal
-git clone https://github.com/geovannyC/ioet-technical-test.git
+git clone https://github.com/geovannyC/ioet-console-app-test-interview
 ```
 
 2. Install dependences:
