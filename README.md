@@ -15,14 +15,14 @@ git clone https://github.com/geovannyC/ioet-console-app-test-interview
    `INSTALL`
 
 ```terminal
-...npm install
+npm install
 ```
 
 3. Launch the project:
    `START`
 
 ```terminal
-...npm start
+npm start
 ```
 
 Runs the app in the development mode.\
